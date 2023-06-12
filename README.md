@@ -12,13 +12,13 @@ C:\Python\venvPython311\venvPyAutoGui\Scripts\activate.bat
 python -m pip install pyautogui
 
 4、运行程序<br>
-python C:\Python\venvPython311\venvPyAutoGui\VeryBusy.py
+python C:\MyProjects\VeryBusy\VeryBusy.py
 
 ### 二次及二次以后运行
 1、进入新创建的虚拟环境<br>
 C:\Python\venvPython311\venvPyAutoGui\Scripts\activate.bat
 
 2、运行程序<br>
-python C:\Python\venvPython311\venvPyAutoGui\VeryBusy.py
+python C:\MyProjects\VeryBusy\VeryBusy.py
 
 (Ctrl + c 停止运行，或者直接关闭CMD窗口)
